@@ -1,5 +1,5 @@
 /*
-输入三个数求最大值 
+MaxResult
 */
 #include<stdio.h>
 int fun(int a,int b,int c); 
