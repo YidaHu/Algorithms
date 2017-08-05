@@ -1,3 +1,6 @@
-# C
+# Algorithms
 
-常用的算法代码。
+
+
+[TOC]
+
