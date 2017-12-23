@@ -7,7 +7,7 @@ import java.io.File;
  * Date: 2017/12/23 16:19
  * Description:深度优先搜索算法.根据文件名搜索某个盘下的文件
  */
-public class FileSearch {
+public class DFSFileSearch {
     /*深度优先搜索算法*/
     private static void show(File list[]) {
         int i = 0;
