@@ -14,7 +14,7 @@
 '''
 
 
-# 第一种：暴力移位法
+# 解法一：暴力移位法
 def violence_reverse(s, n):
     str_before, str_after = [], []
     for i in range(len(s)):
@@ -28,7 +28,7 @@ def violence_reverse(s, n):
     return "".join(str_before)
 
 
-# 第二种：三步反转法
+# 解法二：三步反转法
 def reverse(s, start, end):
     '''
     首先将原字符串分为两个部分，即X:abc，Y:def；
