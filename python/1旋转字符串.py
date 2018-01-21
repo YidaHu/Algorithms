@@ -3,7 +3,7 @@
 # @Time    : 2018/1/2 23:16
 # @Author  : Huyd
 # @Site    : 
-# @File    : 旋转字符串.py
+# @File    : 1旋转字符串.py
 # @Software: PyCharm
 
 '''
