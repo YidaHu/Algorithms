@@ -33,7 +33,7 @@
  * 所有输入只包含小写字母 a-z 。
  * 
  */
-class Solution {
+class Solution14LongestCommonPrefix {
     public String longestCommonPrefix(String[] strs) {
         int count = strs.length;
         if (count == 0) {

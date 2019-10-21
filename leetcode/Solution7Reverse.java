@@ -37,7 +37,7 @@
  * 0。
  * 
  */
-class Solution {
+class Solution7Reverse {
 
     public int reverse(int x) {
         String s = Integer.toString(x);

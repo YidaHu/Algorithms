@@ -67,7 +67,7 @@ import java.util.HashMap;
  * 解释: M = 1000, CM = 900, XC = 90, IV = 4.
  * 
  */
-class Solution {
+class Solution13RomanToInt {
 
     public int romanToInt(String s) {
         int res = 0;

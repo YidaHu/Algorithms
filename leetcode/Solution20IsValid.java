@@ -55,7 +55,7 @@ import java.util.Stack;
  * 输出: true
  * 
  */
-class Solution {
+class Solution20IsValid {
     public boolean isValid(String s) {
         if (s.isEmpty()) {
             return true;
